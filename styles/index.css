@@ -1,6 +1,11 @@
+* {
+    text-align: center;
+}
+
 h1 {
     color: rgb(255, 136, 0);
     font-family: 'Satisfy', cursive;
+    /* letter-spacing: 5px; */
 }
 
 body {
@@ -14,4 +19,11 @@ ol {
 
 p {
     font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    word-spacing: 10px;
+}
+
+.fa-otter {
+    color: orchid;
+    font-size: 50px;
 }
